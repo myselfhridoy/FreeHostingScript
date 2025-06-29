@@ -5,55 +5,123 @@
         "channels": [
             {
                 "name": "Channel HD",
-                "link": "https://k2.crichd.com/"
+                "link": "https://k2.crichd.com/",
+                "stream_data": null
             },
             {
                 "name": "Willow Cricket",
-                "link": "https://cricgo.pw/willow-cricket-live-streaming"
+                "link": "https://cricgo.pw/willow-cricket-live-streaming",
+                "stream_data": {
+                    "iframe_url": "https://soplay.pro/embed2.php?id=willow",
+                    "fid": "willowuse",
+                    "logo": "https://i.imgur.com/0P0Udsa.png"
+                }
             },
             {
                 "name": "Sony Sports Ten 5",
-                "link": "https://cricgo.pw/sony-sports-ten-5-live-streaming"
+                "link": "https://cricgo.pw/sony-sports-ten-5-live-streaming",
+                "stream_data": {
+                    "iframe_url": "https://soplay.pro/embed2.php?id=sonysix",
+                    "fid": "ten5endia",
+                    "logo": "https://i.imgur.com/0P0Udsa.png"
+                }
             },
             {
                 "name": "Sony Sports Ten 1",
-                "link": "https://cricgo.pw/sony-sports-ten-1-live-streaming"
+                "link": "https://cricgo.pw/sony-sports-ten-1-live-streaming",
+                "stream_data": {
+                    "iframe_url": "https://soplay.pro/embed2.php?id=ten1",
+                    "fid": "ten1endia",
+                    "logo": "https://i.imgur.com/0P0Udsa.png"
+                }
             },
             {
                 "name": "Sky Sports Cricket",
-                "link": "https://cricgo.pw/sky-sports-cricket-live-streaming"
+                "link": "https://cricgo.pw/sky-sports-cricket-live-streaming",
+                "stream_data": {
+                    "iframe_url": "https://soplay.pro/embed2.php?id=skysp2",
+                    "fid": "skyscric3",
+                    "logo": "https://i.imgur.com/0P0Udsa.png"
+                }
             },
             {
                 "name": "Sony Sports Ten 3",
-                "link": "https://cricgo.pw/sony-sports-ten-3-live-streaming"
+                "link": "https://cricgo.pw/sony-sports-ten-3-live-streaming",
+                "stream_data": {
+                    "iframe_url": "https://soplay.pro/embed2.php?id=ten3",
+                    "fid": "ten3endia",
+                    "logo": "https://i.imgur.com/0P0Udsa.png"
+                }
             },
             {
                 "name": "Sony Sports Ten 4",
-                "link": "https://cricgo.pw/sony-sports-ten-4-live-streaming"
+                "link": "https://cricgo.pw/sony-sports-ten-4-live-streaming",
+                "stream_data": {
+                    "iframe_url": "https://soplay.pro/embed2.php?id=sonyespn",
+                    "fid": "sonyespnind",
+                    "logo": "https://i.imgur.com/0P0Udsa.png"
+                }
             },
             {
                 "name": "Willow Cricket",
-                "link": "https://crichdplays.ru/willow-cricket-live-streaming"
+                "link": "https://crichdplays.ru/willow-cricket-live-streaming",
+                "stream_data": {
+                    "iframe_url": "https://soplay.pro/embed2.php?id=willow",
+                    "fid": "willowuse",
+                    "logo": "https://i.imgur.com/0P0Udsa.png"
+                }
             },
             {
                 "name": "Sony Sports Ten 5",
-                "link": "https://crichdplays.ru/sony-sports-ten-5-live-streaming"
+                "link": "https://crichdplays.ru/sony-sports-ten-5-live-streaming",
+                "stream_data": {
+                    "iframe_url": "https://soplay.pro/embed2.php?id=sonysix",
+                    "fid": "ten5endia",
+                    "logo": "https://i.imgur.com/0P0Udsa.png"
+                }
             },
             {
                 "name": "Sony Sports Ten 1",
-                "link": "https://crichdplays.ru/sony-sports-ten-1-live-streaming"
+                "link": "https://crichdplays.ru/sony-sports-ten-1-live-streaming",
+                "stream_data": {
+                    "iframe_url": "https://soplay.pro/embed2.php?id=ten1",
+                    "fid": "ten1endia",
+                    "logo": "https://i.imgur.com/0P0Udsa.png"
+                }
             },
             {
                 "name": "Sky Sports Cricket",
-                "link": "https://crichdplays.ru/sky-sports-cricket-live-streaming"
+                "link": "https://crichdplays.ru/sky-sports-cricket-live-streaming",
+                "stream_data": {
+                    "iframe_url": "https://soplay.pro/embed2.php?id=skysp2",
+                    "fid": "skyscric3",
+                    "logo": "https://i.imgur.com/0P0Udsa.png"
+                }
             },
             {
                 "name": "Sony Sports Ten 3",
-                "link": "https://crichdplays.ru/sony-sports-ten-3-live-streaming"
+                "link": "https://crichdplays.ru/sony-sports-ten-3-live-streaming",
+                "stream_data": {
+                    "iframe_url": "https://soplay.pro/embed2.php?id=ten3",
+                    "fid": "ten3endia",
+                    "logo": "https://i.imgur.com/0P0Udsa.png"
+                }
             },
             {
                 "name": "Sony Sports Ten 4",
-                "link": "https://crichdplays.ru/sony-sports-ten-4-live-streaming"
+                "link": "https://crichdplays.ru/sony-sports-ten-4-live-streaming",
+                "stream_data": {
+                    "iframe_url": "https://soplay.pro/embed2.php?id=sonyespn",
+                    "fid": "sonyespnind",
+                    "logo": "https://i.imgur.com/0P0Udsa.png"
+                }
+            },
+            {
+                "name": "Tour/League :",
+                "link": "https://crichd.com.co/schedule/india-vs-eng-live-streaming",
+                "stream_data": {
+                    "iframe_url": "https://procdncache.com/chat.php?v=2"
+                }
             }
         ]
     }
