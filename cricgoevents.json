@@ -1,128 +1,442 @@
 [
     {
         "title": "India vs England",
-        "link": "https://crichd.com.co/watch-india-vs-england-live-streaming-free",
+        "link": "https:\/\/crichd.com.co\/watch-india-vs-england-live-streaming-free",
         "channels": [
             {
-                "name": "Channel HD",
-                "link": "https://k2.crichd.com/",
-                "stream_data": null
+                "channel_name": "India vs England (Willow Cricket)",
+                "channel_link": "https:\/\/cricgo.pw\/willow-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
+                "fid": "willowuse",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             },
             {
-                "name": "Willow Cricket",
-                "link": "https://cricgo.pw/willow-cricket-live-streaming",
-                "stream_data": {
-                    "iframe_url": "https://soplay.pro/embed2.php?id=willow",
-                    "fid": "willowuse",
-                    "logo": "https://i.imgur.com/0P0Udsa.png"
-                }
+                "channel_name": "India vs England (Sony Sports Ten 5)",
+                "channel_link": "https:\/\/cricgo.pw\/sony-sports-ten-5-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=sonysix",
+                "fid": "ten5endia",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=ten5endia|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             },
             {
-                "name": "Sony Sports Ten 5",
-                "link": "https://cricgo.pw/sony-sports-ten-5-live-streaming",
-                "stream_data": {
-                    "iframe_url": "https://soplay.pro/embed2.php?id=sonysix",
-                    "fid": "ten5endia",
-                    "logo": "https://i.imgur.com/0P0Udsa.png"
-                }
+                "channel_name": "India vs England (Sony Sports Ten 1)",
+                "channel_link": "https:\/\/cricgo.pw\/sony-sports-ten-1-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=ten1",
+                "fid": "ten1endia",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=ten1endia|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
             },
             {
-                "name": "Sony Sports Ten 1",
-                "link": "https://cricgo.pw/sony-sports-ten-1-live-streaming",
-                "stream_data": {
-                    "iframe_url": "https://soplay.pro/embed2.php?id=ten1",
-                    "fid": "ten1endia",
-                    "logo": "https://i.imgur.com/0P0Udsa.png"
-                }
+                "channel_name": "India vs England (Sky Sports Cricket)",
+                "channel_link": "https:\/\/cricgo.pw\/sky-sports-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=skysp2",
+                "fid": "skyscric3",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=skyscric3|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
             },
             {
-                "name": "Sky Sports Cricket",
-                "link": "https://cricgo.pw/sky-sports-cricket-live-streaming",
-                "stream_data": {
-                    "iframe_url": "https://soplay.pro/embed2.php?id=skysp2",
-                    "fid": "skyscric3",
-                    "logo": "https://i.imgur.com/0P0Udsa.png"
-                }
+                "channel_name": "India vs England (Sony Sports Ten 3)",
+                "channel_link": "https:\/\/cricgo.pw\/sony-sports-ten-3-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=ten3",
+                "fid": "ten3endia",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=ten3endia|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             },
             {
-                "name": "Sony Sports Ten 3",
-                "link": "https://cricgo.pw/sony-sports-ten-3-live-streaming",
-                "stream_data": {
-                    "iframe_url": "https://soplay.pro/embed2.php?id=ten3",
-                    "fid": "ten3endia",
-                    "logo": "https://i.imgur.com/0P0Udsa.png"
-                }
+                "channel_name": "India vs England (Sony Sports Ten 4)",
+                "channel_link": "https:\/\/cricgo.pw\/sony-sports-ten-4-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=sonyespn",
+                "fid": "sonyespnind",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=sonyespnind|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             },
             {
-                "name": "Sony Sports Ten 4",
-                "link": "https://cricgo.pw/sony-sports-ten-4-live-streaming",
-                "stream_data": {
-                    "iframe_url": "https://soplay.pro/embed2.php?id=sonyespn",
-                    "fid": "sonyespnind",
-                    "logo": "https://i.imgur.com/0P0Udsa.png"
-                }
+                "channel_name": "India vs England (Willow Cricket)",
+                "channel_link": "https:\/\/crichdplays.ru\/willow-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
+                "fid": "willowuse",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             },
             {
-                "name": "Willow Cricket",
-                "link": "https://crichdplays.ru/willow-cricket-live-streaming",
-                "stream_data": {
-                    "iframe_url": "https://soplay.pro/embed2.php?id=willow",
-                    "fid": "willowuse",
-                    "logo": "https://i.imgur.com/0P0Udsa.png"
-                }
+                "channel_name": "India vs England (Sony Sports Ten 5)",
+                "channel_link": "https:\/\/crichdplays.ru\/sony-sports-ten-5-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=sonysix",
+                "fid": "ten5endia",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=ten5endia|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             },
             {
-                "name": "Sony Sports Ten 5",
-                "link": "https://crichdplays.ru/sony-sports-ten-5-live-streaming",
-                "stream_data": {
-                    "iframe_url": "https://soplay.pro/embed2.php?id=sonysix",
-                    "fid": "ten5endia",
-                    "logo": "https://i.imgur.com/0P0Udsa.png"
-                }
+                "channel_name": "India vs England (Sony Sports Ten 1)",
+                "channel_link": "https:\/\/crichdplays.ru\/sony-sports-ten-1-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=ten1",
+                "fid": "ten1endia",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=ten1endia|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
             },
             {
-                "name": "Sony Sports Ten 1",
-                "link": "https://crichdplays.ru/sony-sports-ten-1-live-streaming",
-                "stream_data": {
-                    "iframe_url": "https://soplay.pro/embed2.php?id=ten1",
-                    "fid": "ten1endia",
-                    "logo": "https://i.imgur.com/0P0Udsa.png"
-                }
+                "channel_name": "India vs England (Sky Sports Cricket)",
+                "channel_link": "https:\/\/crichdplays.ru\/sky-sports-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=skysp2",
+                "fid": "skyscric3",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=skyscric3|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
             },
             {
-                "name": "Sky Sports Cricket",
-                "link": "https://crichdplays.ru/sky-sports-cricket-live-streaming",
-                "stream_data": {
-                    "iframe_url": "https://soplay.pro/embed2.php?id=skysp2",
-                    "fid": "skyscric3",
-                    "logo": "https://i.imgur.com/0P0Udsa.png"
-                }
+                "channel_name": "India vs England (Sony Sports Ten 3)",
+                "channel_link": "https:\/\/crichdplays.ru\/sony-sports-ten-3-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=ten3",
+                "fid": "ten3endia",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=ten3endia|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             },
             {
-                "name": "Sony Sports Ten 3",
-                "link": "https://crichdplays.ru/sony-sports-ten-3-live-streaming",
-                "stream_data": {
-                    "iframe_url": "https://soplay.pro/embed2.php?id=ten3",
-                    "fid": "ten3endia",
-                    "logo": "https://i.imgur.com/0P0Udsa.png"
-                }
-            },
-            {
-                "name": "Sony Sports Ten 4",
-                "link": "https://crichdplays.ru/sony-sports-ten-4-live-streaming",
-                "stream_data": {
-                    "iframe_url": "https://soplay.pro/embed2.php?id=sonyespn",
-                    "fid": "sonyespnind",
-                    "logo": "https://i.imgur.com/0P0Udsa.png"
-                }
-            },
-            {
-                "name": "Tour/League :",
-                "link": "https://crichd.com.co/schedule/india-vs-eng-live-streaming",
-                "stream_data": {
-                    "iframe_url": "https://procdncache.com/chat.php?v=2"
-                }
+                "channel_name": "India vs England (Sony Sports Ten 4)",
+                "channel_link": "https:\/\/crichdplays.ru\/sony-sports-ten-4-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=sonyespn",
+                "fid": "sonyespnind",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=sonyespnind|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             }
         ]
+    },
+    {
+        "title": "South Africa vs Zimbabwe",
+        "link": "https:\/\/crichd.com.co\/south-africa-vs-zimbabwe",
+        "channels": [
+            {
+                "channel_name": "South Africa vs Zimbabwe (PTV Sports)",
+                "channel_link": "https:\/\/cricgo.pw\/ptv-sports-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=ptvsp",
+                "fid": "ptvpk",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=ptvpk|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "South Africa vs Zimbabwe (CricLife 2)",
+                "channel_link": "https:\/\/cricgo.pw\/criclife-2-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=criclife2",
+                "fid": "criclife2",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=criclife2|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "South Africa vs Zimbabwe (SuperSport Cricket)",
+                "channel_link": "https:\/\/cricgo.pw\/supersport-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=osncric",
+                "fid": "super2cric",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=super2cric|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            },
+            {
+                "channel_name": "South Africa vs Zimbabwe (PTV Sports)",
+                "channel_link": "https:\/\/crichdplays.ru\/ptv-sports-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=ptvsp",
+                "fid": "ptvpk",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=ptvpk|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "South Africa vs Zimbabwe (CricLife 2)",
+                "channel_link": "https:\/\/crichdplays.ru\/criclife-2-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=criclife2",
+                "fid": "criclife2",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=criclife2|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "South Africa vs Zimbabwe (SuperSport Cricket)",
+                "channel_link": "https:\/\/crichdplays.ru\/supersport-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=osncric",
+                "fid": "super2cric",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=super2cric|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            }
+        ]
+    },
+    {
+        "title": "TNPL T20",
+        "link": "https:\/\/crichd.com.co\/tamil-nadu-premier-league-tnpl-live-streaming",
+        "channels": [
+            {
+                "channel_name": "TNPL T20 (Star Sports 2)",
+                "channel_link": "https:\/\/cricgo.pw\/star-sports-2-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=starsp2",
+                "fid": "star2in",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=star2in|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "TNPL T20 (Star Sports Tamil)",
+                "channel_link": "https:\/\/cricgo.pw\/star-sports-1-tamil-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=starsp1tam",
+                "fid": "starsp1tamil",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=starsp1tamil|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "TNPL T20 (Star Sports 2)",
+                "channel_link": "https:\/\/crichdplays.ru\/star-sports-2-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=starsp2",
+                "fid": "star2in",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=star2in|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "TNPL T20 (Star Sports Tamil)",
+                "channel_link": "https:\/\/crichdplays.ru\/star-sports-1-tamil-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=starsp1tam",
+                "fid": "starsp1tamil",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=starsp1tamil|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            }
+        ]
+    },
+    {
+        "title": "T20 Blast 2025",
+        "link": "https:\/\/crichd.com.co\/t20-blast-live-streaming-hd-32",
+        "channels": [
+            {
+                "channel_name": "T20 Blast 2025 (Willow Cricket)",
+                "channel_link": "https:\/\/cricgo.pw\/willow-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
+                "fid": "willowuse",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "T20 Blast 2025 (Sky Sports Cricket)",
+                "channel_link": "https:\/\/cricgo.pw\/sky-sports-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=skysp2",
+                "fid": "skyscric3",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=skyscric3|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            },
+            {
+                "channel_name": "T20 Blast 2025 (Sky Sports Arena)",
+                "channel_link": "https:\/\/cricgo.pw\/sky-sports-arena-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=skyarena",
+                "fid": "dskysare",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=dskysare|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            },
+            {
+                "channel_name": "T20 Blast 2025 (Willow Cricket)",
+                "channel_link": "https:\/\/crichdplays.ru\/willow-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
+                "fid": "willowuse",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "T20 Blast 2025 (Sky Sports Cricket)",
+                "channel_link": "https:\/\/crichdplays.ru\/sky-sports-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=skysp2",
+                "fid": "skyscric3",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=skyscric3|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            },
+            {
+                "channel_name": "T20 Blast 2025 (Sky Sports Arena)",
+                "channel_link": "https:\/\/crichdplays.ru\/sky-sports-arena-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=skyarena",
+                "fid": "dskysare",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=dskysare|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            }
+        ]
+    },
+    {
+        "title": "MLC T20",
+        "link": "https:\/\/crichd.com.co\/major-league-cricket-mlc-t20-live-streaming-hd-4",
+        "channels": [
+            {
+                "channel_name": "MLC T20 (Willow Cricket)",
+                "channel_link": "https:\/\/cricgo.pw\/willow-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
+                "fid": "willowuse",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "MLC T20 (A Sports HD)",
+                "channel_link": "https:\/\/cricgo.pw\/a-sports-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=asports",
+                "fid": "asportiso",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=asportiso|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "MLC T20 (Willow Cricket)",
+                "channel_link": "https:\/\/crichdplays.ru\/willow-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
+                "fid": "willowuse",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "MLC T20 (A Sports HD)",
+                "channel_link": "https:\/\/crichdplays.ru\/a-sports-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=asports",
+                "fid": "asportiso",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=asportiso|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            }
+        ]
+    },
+    {
+        "title": "Bangladesh vs Sri Lanka",
+        "link": "https:\/\/crichd.com.co\/bangladesh-vs-sri-lanka-live-streaming-hd-2",
+        "channels": [
+            {
+                "channel_name": "Bangladesh vs Sri Lanka (TNT Sports 1)",
+                "channel_link": "https:\/\/cricgo.pw\/bt-sport-1-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=btsp1",
+                "fid": "bbtsp11",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bbtsp11|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            },
+            {
+                "channel_name": "Bangladesh vs Sri Lanka (T Sports HD)",
+                "channel_link": "https:\/\/cricgo.pw\/gtv-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=gtv",
+                "fid": "bdgtv",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bdgtv|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "Bangladesh vs Sri Lanka (TNT Sports 1)",
+                "channel_link": "https:\/\/crichdplays.ru\/bt-sport-1-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=btsp1",
+                "fid": "bbtsp11",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bbtsp11|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            },
+            {
+                "channel_name": "Bangladesh vs Sri Lanka (T Sports HD)",
+                "channel_link": "https:\/\/crichdplays.ru\/gtv-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=gtv",
+                "fid": "bdgtv",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bdgtv|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            }
+        ]
+    },
+    {
+        "title": "India vs England 2nd Test",
+        "link": "https:\/\/crichd.com.co\/india-vs-england-2nd-test-live-streaming-hd",
+        "channels": []
+    },
+    {
+        "title": "Australia vs West Indies",
+        "link": "https:\/\/crichd.com.co\/australia-vs-west-indies-live-streaming-free-1",
+        "channels": [
+            {
+                "channel_name": "Australia vs West Indies (CricLife 1)",
+                "channel_link": "https:\/\/cricgo.pw\/criclife-1-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=criclife1",
+                "fid": "criclife1",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=criclife1|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "Australia vs West Indies (TNT Sports 1)",
+                "channel_link": "https:\/\/cricgo.pw\/bt-sport-1-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=btsp1",
+                "fid": "bbtsp11",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bbtsp11|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            },
+            {
+                "channel_name": "Australia vs West Indies (Fox Sports 501)",
+                "channel_link": "https:\/\/cricgo.pw\/fox-sports-501-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=fox501",
+                "fid": "fox501",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=fox501|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "Australia vs West Indies (CricLife 1)",
+                "channel_link": "https:\/\/crichdplays.ru\/criclife-1-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=criclife1",
+                "fid": "criclife1",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=criclife1|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "Australia vs West Indies (TNT Sports 1)",
+                "channel_link": "https:\/\/crichdplays.ru\/bt-sport-1-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=btsp1",
+                "fid": "bbtsp11",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bbtsp11|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            },
+            {
+                "channel_name": "Australia vs West Indies (Fox Sports 501)",
+                "channel_link": "https:\/\/crichdplays.ru\/fox-sports-501-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=fox501",
+                "fid": "fox501",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=fox501|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            }
+        ]
+    },
+    {
+        "title": "India vs England 3rd Test",
+        "link": "https:\/\/crichd.com.co\/india-vs-england-3rd-test-live-streaming-hd",
+        "channels": []
+    },
+    {
+        "title": "India vs England 4th Test",
+        "link": "https:\/\/crichd.com.co\/india-vs-england-4th-test-live-streaming-hd-1",
+        "channels": []
+    },
+    {
+        "title": "India vs England 5th Test",
+        "link": "https:\/\/crichd.com.co\/india-vs-england-5th-test-live-streaming-hd",
+        "channels": []
     }
 ]
