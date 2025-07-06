@@ -71,6 +71,20 @@
             height: 100%;
             border: none;
         }
+        .player-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.7);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            z-index: 10;
+        }
         .player-controls {
             position: absolute;
             bottom: 0;
@@ -81,23 +95,19 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
+            z-index: 20;
         }
-        .back-btn {
-            background: #e74c3c;
-            color: white;
-            border: none;
-            padding: 8px 15px;
-            border-radius: 4px;
-            cursor: pointer;
-        }
-        .unmute-btn {
+        .control-btn {
             background: #3498db;
             color: white;
             border: none;
             padding: 8px 15px;
             border-radius: 4px;
             cursor: pointer;
-            margin-right: 10px;
+            margin: 0 5px;
+        }
+        .back-btn {
+            background: #e74c3c;
         }
         .loading {
             text-align: center;
@@ -118,6 +128,7 @@
             }
         }
     </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
     <h1>Cricket Live Streams</h1>
@@ -132,13 +143,27 @@
     
     <div class="player-container" id="playerContainer">
         <div class="player-wrapper">
+            <div class="player-overlay" id="playerOverlay">
+                <div style="text-align: center;">
+                    <i class="fas fa-play-circle" style="font-size: 60px; margin-bottom: 15px;"></i>
+                    <div style="font-size: 18px; margin-bottom: 10px;">Stream Loading...</div>
+                    <button class="control-btn" id="loadBtn">
+                        <i class="fas fa-play"></i> Load Stream
+                    </button>
+                </div>
+            </div>
             <iframe id="videoFrame" allowfullscreen></iframe>
             <div class="player-controls">
-                <button class="unmute-btn" id="unmuteBtn">
-                    <i class="fas fa-volume-mute"></i> Click to Unmute
-                </button>
-                <button class="back-btn" id="backBtn">
-                    <i class="fas fa-times"></i> Close Player
+                <div>
+                    <button class="control-btn" id="unmuteBtn">
+                        <i class="fas fa-volume-mute"></i> Unmute
+                    </button>
+                    <button class="control-btn" id="refreshBtn">
+                        <i class="fas fa-sync-alt"></i> Refresh
+                    </button>
+                </div>
+                <button class="control-btn back-btn" id="backBtn">
+                    <i class="fas fa-times"></i> Close
                 </button>
             </div>
         </div>
@@ -189,7 +214,10 @@
         let currentStream = null;
         const player = document.getElementById('playerContainer');
         const videoFrame = document.getElementById('videoFrame');
+        const playerOverlay = document.getElementById('playerOverlay');
+        const loadBtn = document.getElementById('loadBtn');
         const unmuteBtn = document.getElementById('unmuteBtn');
+        const refreshBtn = document.getElementById('refreshBtn');
         const backBtn = document.getElementById('backBtn');
 
         // Open player with selected stream
@@ -198,12 +226,24 @@
             player.style.display = 'block';
             document.body.style.overflow = 'hidden';
             
-            // Create a sandboxed iframe to prevent redirects
-            const sandbox = 'allow-scripts allow-same-origin allow-popups';
-            videoFrame.setAttribute('sandbox', sandbox);
+            // Reset overlay
+            playerOverlay.style.display = 'flex';
+            videoFrame.src = '';
+            
+            // Setup load button
+            loadBtn.onclick = function() {
+                loadStream();
+            };
+        }
+
+        // Load the stream with click-to-load protection
+        function loadStream() {
+            if (!currentStream) return;
+            
+            playerOverlay.style.display = 'none';
             
             // Load the stream with autoplay and mute parameters
-            let streamUrl = channel.iframe_url;
+            let streamUrl = currentStream.iframe_url;
             if (!streamUrl.includes('?')) {
                 streamUrl += '?autoplay=1&mute=0';
             } else {
@@ -212,7 +252,7 @@
             
             videoFrame.src = streamUrl;
             
-            // Attempt to handle mute/unmute
+            // Setup unmute handler
             setupUnmuteHandler();
         }
 
@@ -223,7 +263,7 @@
             
             unmuteBtn.onclick = function() {
                 if (unmuteAttempts >= maxAttempts) {
-                    alert("Couldn't unmute. Please try a different stream.");
+                    alert("Couldn't unmute. Please try refreshing the stream.");
                     return;
                 }
                 
@@ -231,11 +271,10 @@
                 
                 try {
                     // Try to access the iframe's unmute button
-                    const iframeDoc = videoFrame.contentDocument || videoFrame.contentWindow.document;
-                    const iframeUnmuteBtn = iframeDoc.querySelector('.UnMute');
-                    
-                    if (iframeUnmuteBtn) {
-                        iframeUnmuteBtn.click();
+                    const iframeWindow = videoFrame.contentWindow;
+                    if (iframeWindow && iframeWindow.player) {
+                        // If player object is accessible
+                        iframeWindow.player.setVolume(100);
                         unmuteBtn.innerHTML = '<i class="fas fa-volume-up"></i> Unmuted!';
                         setTimeout(() => {
                             unmuteBtn.style.display = 'none';
@@ -250,6 +289,16 @@
                     videoFrame.src = currentStream.iframe_url + '?autoplay=1&mute=0';
                 }
             };
+            
+            // Refresh button handler
+            refreshBtn.onclick = function() {
+                if (currentStream) {
+                    videoFrame.src = currentStream.iframe_url + '?autoplay=1&mute=0';
+                    unmuteBtn.style.display = 'block';
+                    unmuteBtn.innerHTML = '<i class="fas fa-volume-mute"></i> Unmute';
+                    unmuteAttempts = 0;
+                }
+            };
         }
 
         // Close player
@@ -257,18 +306,13 @@
             player.style.display = 'none';
             document.body.style.overflow = 'auto';
             videoFrame.src = '';
+            playerOverlay.style.display = 'flex';
             unmuteBtn.style.display = 'block';
-            unmuteBtn.innerHTML = '<i class="fas fa-volume-mute"></i> Click to Unmute';
+            unmuteBtn.innerHTML = '<i class="fas fa-volume-mute"></i> Unmute';
         };
 
         // Load events when page loads
         document.addEventListener('DOMContentLoaded', loadEvents);
-        
-        // Add Font Awesome for icons
-        const fa = document.createElement('link');
-        fa.rel = 'stylesheet';
-        fa.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css';
-        document.head.appendChild(fa);
     </script>
 </body>
 </html>
