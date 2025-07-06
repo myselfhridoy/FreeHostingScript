@@ -174,48 +174,6 @@
         ]
     },
     {
-        "title": "TNPL T20",
-        "link": "https:\/\/crichd.com.co\/tamil-nadu-premier-league-tnpl-live-streaming",
-        "channels": [
-            {
-                "channel_name": "TNPL T20 (Star Sports 2)",
-                "channel_link": "https:\/\/cricgo.pw\/star-sports-2-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=starsp2",
-                "fid": "star2in",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=star2in|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "TNPL T20 (Star Sports Tamil)",
-                "channel_link": "https:\/\/cricgo.pw\/star-sports-1-tamil-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=starsp1tam",
-                "fid": "starsp1tamil",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=starsp1tamil|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "TNPL T20 (Star Sports 2)",
-                "channel_link": "https:\/\/crichdplays.ru\/star-sports-2-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=starsp2",
-                "fid": "star2in",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=star2in|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "TNPL T20 (Star Sports Tamil)",
-                "channel_link": "https:\/\/crichdplays.ru\/star-sports-1-tamil-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=starsp1tam",
-                "fid": "starsp1tamil",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=starsp1tamil|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            }
-        ]
-    },
-    {
         "title": "Australia vs West Indies",
         "link": "https:\/\/crichd.com.co\/australia-vs-west-indies-live-streaming-free-1",
         "channels": [
