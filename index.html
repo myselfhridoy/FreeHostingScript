@@ -74,41 +74,40 @@
             overflow: hidden;
             box-shadow: 0 10px 30px rgba(0,0,0,0.2);
         }
-        .iframe-wrapper {
+        .player-wrapper {
             position: relative;
             width: 100%;
             padding-bottom: 56.25%; /* 16:9 aspect ratio */
             background-color: #000;
         }
-        .iframe-overlay {
+        .player-overlay {
             position: absolute;
             top: 0;
             left: 0;
             width: 100%;
             height: 100%;
-            background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%);
+            background: rgba(0,0,0,0.7);
             display: flex;
             flex-direction: column;
             justify-content: center;
             align-items: center;
             color: white;
-            font-size: 18px;
             z-index: 10;
-            cursor: pointer;
-            transition: all 0.3s ease;
         }
-        .iframe-overlay:hover {
-            opacity: 0.9;
-        }
-        .play-icon {
-            font-size: 60px;
-            margin-bottom: 15px;
-            color: rgba(255,255,255,0.8);
-        }
-        .loading-text {
+        .unmute-btn {
+            padding: 10px 20px;
+            background: #3498db;
+            color: white;
+            border: none;
+            border-radius: 6px;
             font-size: 16px;
-            margin-top: 10px;
-            opacity: 0.8;
+            cursor: pointer;
+            margin-top: 15px;
+            transition: all 0.3s;
+        }
+        .unmute-btn:hover {
+            background: #2980b9;
+            transform: scale(1.05);
         }
         iframe {
             position: absolute;
@@ -124,6 +123,11 @@
             align-items: center;
             background: #2c3e50;
             padding: 12px 20px;
+            color: white;
+        }
+        .now-playing {
+            font-weight: 500;
+            font-size: 16px;
         }
         .back-button {
             padding: 10px 20px;
@@ -133,16 +137,10 @@
             border-radius: 6px;
             cursor: pointer;
             font-weight: 500;
-            transition: all 0.3s ease;
+            transition: all 0.3s;
         }
         .back-button:hover {
             background: #2980b9;
-            transform: translateY(-2px);
-        }
-        .now-playing {
-            color: white;
-            font-weight: 500;
-            font-size: 16px;
         }
         .loading {
             text-align: center;
@@ -184,11 +182,16 @@
     </div>
     
     <div class="player-container" id="playerContainer">
-        <div class="iframe-wrapper">
-            <div class="iframe-overlay" id="iframeOverlay">
-                <div class="play-icon"><i class="fas fa-play-circle"></i></div>
-                <div>Click to load live stream</div>
-                <div class="loading-text">Stream may contain ads</div>
+        <div class="player-wrapper">
+            <div class="player-overlay" id="playerOverlay">
+                <div style="text-align: center;">
+                    <i class="fas fa-play-circle" style="font-size: 60px; margin-bottom: 15px;"></i>
+                    <div style="font-size: 18px; margin-bottom: 10px;">Click to load live stream</div>
+                    <div style="font-size: 14px; opacity: 0.8;">Stream may contain ads</div>
+                    <button class="unmute-btn" id="unmuteBtn" style="display: none;">
+                        <i class="fas fa-volume-mute"></i> Click to Unmute
+                    </button>
+                </div>
             </div>
             <iframe id="videoPlayer" allowfullscreen></iframe>
         </div>
@@ -203,6 +206,7 @@
     <script>
         // Current playing channel info
         let currentChannel = null;
+        let playerInterval = null;
 
         // Load events from JSON file
         async function loadEventsFromJSON() {
@@ -262,8 +266,9 @@
         function prepareVideo(channel) {
             const playerContainer = document.getElementById('playerContainer');
             const videoPlayer = document.getElementById('videoPlayer');
-            const iframeOverlay = document.getElementById('iframeOverlay');
+            const playerOverlay = document.getElementById('playerOverlay');
             const nowPlaying = document.getElementById('nowPlaying');
+            const unmuteBtn = document.getElementById('unmuteBtn');
             
             if (!channel.iframe_url) {
                 alert('Stream URL not available');
@@ -284,17 +289,13 @@
             videoPlayer.src = '';
             
             // Show overlay with click to load
-            iframeOverlay.style.display = 'flex';
-            iframeOverlay.innerHTML = `
-                <div class="play-icon"><i class="fas fa-play-circle"></i></div>
-                <div>Click to load ${channel.channel_name}</div>
-                <div class="loading-text">Stream may contain ads</div>
-            `;
+            playerOverlay.style.display = 'flex';
+            unmuteBtn.style.display = 'none';
             
             // Set up click handler for overlay
-            iframeOverlay.onclick = function() {
+            playerOverlay.onclick = function() {
                 loadVideo(channel);
-                iframeOverlay.style.display = 'none';
+                playerOverlay.style.display = 'none';
             };
             
             // Scroll to player
@@ -303,49 +304,61 @@
 
         function loadVideo(channel) {
             const videoPlayer = document.getElementById('videoPlayer');
+            const unmuteBtn = document.getElementById('unmuteBtn');
             
-            // Add parameters to unmute and autoplay
-            let videoUrl = channel.iframe_url;
-            if (!videoUrl.includes('autoplay=1')) {
-                videoUrl += (videoUrl.includes('?') ? '&' : '?') + 'autoplay=1';
-            }
-            if (!videoUrl.includes('mute=0')) {
-                videoUrl += (videoUrl.includes('?') ? '&' : '?') + 'mute=0';
+            // Clear any existing interval
+            if (playerInterval) {
+                clearInterval(playerInterval);
             }
             
             // Set the iframe src
-            videoPlayer.src = videoUrl;
+            videoPlayer.src = channel.iframe_url;
             
-            // Attempt to handle potential redirects
-            const redirectInterval = setInterval(() => {
+            // Start checking for mute status
+            playerInterval = setInterval(() => {
                 try {
-                    if (videoPlayer.contentWindow.location.href !== videoUrl) {
-                        videoPlayer.contentWindow.location.href = videoUrl;
+                    // Check if unmute button exists in the iframe
+                    const iframeDoc = videoPlayer.contentDocument || videoPlayer.contentWindow.document;
+                    const iframeUnmuteBtn = iframeDoc.querySelector('.UnMute');
+                    
+                    if (iframeUnmuteBtn) {
+                        // Show our custom unmute button
+                        unmuteBtn.style.display = 'block';
+                        
+                        // Click the iframe's unmute button when ours is clicked
+                        unmuteBtn.onclick = function() {
+                            iframeUnmuteBtn.click();
+                            unmuteBtn.innerHTML = '<i class="fas fa-volume-up"></i> Unmuted';
+                            setTimeout(() => {
+                                unmuteBtn.style.display = 'none';
+                            }, 2000);
+                        };
                     }
                 } catch (e) {
                     // Cross-origin error, can't access iframe
-                    clearInterval(redirectInterval);
+                    console.log("Cannot access iframe due to security restrictions");
                 }
             }, 1000);
-            
-            // Clear interval after 10 seconds
-            setTimeout(() => clearInterval(redirectInterval), 10000);
         }
 
         function hidePlayer() {
             const playerContainer = document.getElementById('playerContainer');
             const videoPlayer = document.getElementById('videoPlayer');
-            const iframeOverlay = document.getElementById('iframeOverlay');
+            const playerOverlay = document.getElementById('playerOverlay');
             
-            // Stop the video
+            // Stop the video and clear interval
             videoPlayer.src = '';
+            if (playerInterval) {
+                clearInterval(playerInterval);
+                playerInterval = null;
+            }
             
             // Hide the player and show the events
             playerContainer.style.display = 'none';
             document.getElementById('eventsContainer').style.display = 'grid';
             
             // Reset overlay
-            iframeOverlay.style.display = 'flex';
+            playerOverlay.style.display = 'flex';
             
             // Scroll back to top
             window.scrollTo({ top: 0, behavior: 'smooth' });
