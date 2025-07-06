@@ -228,6 +228,66 @@
         ]
     },
     {
+        "title": "South Africa vs Zimbabwe",
+        "link": "https:\/\/crichd.com.co\/south-africa-vs-zimbabwe",
+        "channels": [
+            {
+                "channel_name": "South Africa vs Zimbabwe (PTV Sports)",
+                "channel_link": "https:\/\/cricgo.pw\/ptv-sports-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=ptvsp",
+                "fid": "ptvpk",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=ptvpk|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "South Africa vs Zimbabwe (CricLife 2)",
+                "channel_link": "https:\/\/cricgo.pw\/criclife-2-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=criclife2",
+                "fid": "criclife2",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=criclife2|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "South Africa vs Zimbabwe (SuperSport Cricket)",
+                "channel_link": "https:\/\/cricgo.pw\/supersport-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=osncric",
+                "fid": "super2cric",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=super2cric|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            },
+            {
+                "channel_name": "South Africa vs Zimbabwe (PTV Sports)",
+                "channel_link": "https:\/\/crichdplays.ru\/ptv-sports-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=ptvsp",
+                "fid": "ptvpk",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=ptvpk|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "South Africa vs Zimbabwe (CricLife 2)",
+                "channel_link": "https:\/\/crichdplays.ru\/criclife-2-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=criclife2",
+                "fid": "criclife2",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=criclife2|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "South Africa vs Zimbabwe (SuperSport Cricket)",
+                "channel_link": "https:\/\/crichdplays.ru\/supersport-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=osncric",
+                "fid": "super2cric",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=super2cric|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            }
+        ]
+    },
+    {
         "title": "TNPL T20",
         "link": "https:\/\/crichd.com.co\/tamil-nadu-premier-league-tnpl-live-streaming",
         "channels": [
@@ -412,6 +472,15 @@
                 "source_url": "http:\/\/localhost:8000?server=cricgo&fid=asportiso|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             },
             {
+                "channel_name": "MLC T20 (Channel 64)",
+                "channel_link": "https:\/\/cricgo.pw\/channel-64-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=spch64",
+                "fid": "spch64",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=spch64|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            },
+            {
                 "channel_name": "MLC T20 (Willow Cricket)",
                 "channel_link": "https:\/\/crichdplays.ru\/willow-cricket-live-streaming",
                 "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
@@ -428,6 +497,15 @@
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
                 "source_url": "http:\/\/localhost:8000?server=cricgo&fid=asportiso|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "MLC T20 (Channel 64)",
+                "channel_link": "https:\/\/crichdplays.ru\/channel-64-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=spch64",
+                "fid": "spch64",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=spch64|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
             }
         ]
     },
@@ -470,66 +548,6 @@
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
                 "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bdgtv|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            }
-        ]
-    },
-    {
-        "title": "South Africa vs Zimbabwe",
-        "link": "https:\/\/crichd.com.co\/south-africa-vs-zimbabwe",
-        "channels": [
-            {
-                "channel_name": "South Africa vs Zimbabwe (PTV Sports)",
-                "channel_link": "https:\/\/cricgo.pw\/ptv-sports-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=ptvsp",
-                "fid": "ptvpk",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=ptvpk|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "South Africa vs Zimbabwe (CricLife 2)",
-                "channel_link": "https:\/\/cricgo.pw\/criclife-2-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=criclife2",
-                "fid": "criclife2",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=criclife2|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "South Africa vs Zimbabwe (SuperSport Cricket)",
-                "channel_link": "https:\/\/cricgo.pw\/supersport-cricket-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=osncric",
-                "fid": "super2cric",
-                "referer": "https:\/\/dlolcast.com",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=super2cric|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
-            },
-            {
-                "channel_name": "South Africa vs Zimbabwe (PTV Sports)",
-                "channel_link": "https:\/\/crichdplays.ru\/ptv-sports-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=ptvsp",
-                "fid": "ptvpk",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=ptvpk|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "South Africa vs Zimbabwe (CricLife 2)",
-                "channel_link": "https:\/\/crichdplays.ru\/criclife-2-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=criclife2",
-                "fid": "criclife2",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=criclife2|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "South Africa vs Zimbabwe (SuperSport Cricket)",
-                "channel_link": "https:\/\/crichdplays.ru\/supersport-cricket-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=osncric",
-                "fid": "super2cric",
-                "referer": "https:\/\/dlolcast.com",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=super2cric|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
             }
         ]
     },
