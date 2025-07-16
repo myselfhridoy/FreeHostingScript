@@ -97,6 +97,15 @@
         "link": "https:\/\/crichd.com.co\/bangladesh-vs-sri-lanka-live-streaming-hd-2",
         "channels": [
             {
+                "channel_name": "Bangladesh vs Sri Lanka (Sony Sports Ten 2)",
+                "channel_link": "https:\/\/cricgo.pw\/sony-sports-ten-2-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=ten2",
+                "fid": "ten2endia",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=ten2endia|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
                 "channel_name": "Bangladesh vs Sri Lanka (TNT Sports 2)",
                 "channel_link": "https:\/\/cricgo.pw\/bt-sport-2-live-streaming",
                 "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=btsp2",
