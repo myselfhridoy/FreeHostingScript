@@ -114,108 +114,6 @@
         ]
     },
     {
-        "title": "T20 Blast 2025",
-        "link": "https:\/\/crichd.com.co\/t20-blast-live-streaming-hd-32",
-        "channels": [
-            {
-                "channel_name": "T20 Blast 2025 (Willow Cricket)",
-                "channel_link": "https:\/\/cricgo.pw\/willow-cricket-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
-                "fid": "willowuse",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "T20 Blast 2025 (Sky Sports Cricket)",
-                "channel_link": "https:\/\/cricgo.pw\/sky-sports-cricket-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=skysp2",
-                "fid": "skyscric3",
-                "referer": "https:\/\/dlolcast.com",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=skyscric3|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
-            },
-            {
-                "channel_name": "T20 Blast 2025 (Sky Sports Arena)",
-                "channel_link": "https:\/\/cricgo.pw\/sky-sports-arena-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=skyarena",
-                "fid": "dskysare",
-                "referer": "https:\/\/dlolcast.com",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=dskysare|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
-            },
-            {
-                "channel_name": "T20 Blast 2025 (Willow Cricket)",
-                "channel_link": "https:\/\/crichdplays.ru\/willow-cricket-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
-                "fid": "willowuse",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "T20 Blast 2025 (Sky Sports Cricket)",
-                "channel_link": "https:\/\/crichdplays.ru\/sky-sports-cricket-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=skysp2",
-                "fid": "skyscric3",
-                "referer": "https:\/\/dlolcast.com",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=skyscric3|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
-            },
-            {
-                "channel_name": "T20 Blast 2025 (Sky Sports Arena)",
-                "channel_link": "https:\/\/crichdplays.ru\/sky-sports-arena-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=skyarena",
-                "fid": "dskysare",
-                "referer": "https:\/\/dlolcast.com",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=dskysare|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
-            }
-        ]
-    },
-    {
-        "title": "Global Super League T20",
-        "link": "https:\/\/crichd.com.co\/global-super-league-t20-live",
-        "channels": [
-            {
-                "channel_name": "Global Super League T20 (Willow Cricket)",
-                "channel_link": "https:\/\/cricgo.pw\/willow-cricket-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
-                "fid": "willowuse",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "Global Super League T20 (Channel 62)",
-                "channel_link": "https:\/\/cricgo.pw\/channel-62-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=spch62",
-                "fid": "spch62",
-                "referer": "https:\/\/dlolcast.com",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=spch62|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
-            },
-            {
-                "channel_name": "Global Super League T20 (Willow Cricket)",
-                "channel_link": "https:\/\/crichdplays.ru\/willow-cricket-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
-                "fid": "willowuse",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "Global Super League T20 (Channel 62)",
-                "channel_link": "https:\/\/crichdplays.ru\/channel-62-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=spch62",
-                "fid": "spch62",
-                "referer": "https:\/\/dlolcast.com",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=spch62|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
-            }
-        ]
-    },
-    {
         "title": "New Zealand vs South Africa 1st T20",
         "link": "https:\/\/crichd.com.co\/new-zealand-vs-south-africa-t20",
         "channels": [
@@ -314,6 +212,108 @@
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
                 "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bdgtv|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            }
+        ]
+    },
+    {
+        "title": "Global Super League T20",
+        "link": "https:\/\/crichd.com.co\/global-super-league-t20-live",
+        "channels": [
+            {
+                "channel_name": "Global Super League T20 (CricLife 3)",
+                "channel_link": "https:\/\/cricgo.pw\/criclife-3-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=criclife3",
+                "fid": "criclife3",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=criclife3|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "Global Super League T20 (Channel 62)",
+                "channel_link": "https:\/\/cricgo.pw\/channel-62-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=spch62",
+                "fid": "spch62",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=spch62|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            },
+            {
+                "channel_name": "Global Super League T20 (CricLife 3)",
+                "channel_link": "https:\/\/crichdplays.ru\/criclife-3-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=criclife3",
+                "fid": "criclife3",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=criclife3|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "Global Super League T20 (Channel 62)",
+                "channel_link": "https:\/\/crichdplays.ru\/channel-62-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=spch62",
+                "fid": "spch62",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=spch62|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            }
+        ]
+    },
+    {
+        "title": "T20 Blast 2025",
+        "link": "https:\/\/crichd.com.co\/t20-blast-live-streaming-hd-32",
+        "channels": [
+            {
+                "channel_name": "T20 Blast 2025 (Willow Cricket)",
+                "channel_link": "https:\/\/cricgo.pw\/willow-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
+                "fid": "willowuse",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "T20 Blast 2025 (Sky Sports Cricket)",
+                "channel_link": "https:\/\/cricgo.pw\/sky-sports-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=skysp2",
+                "fid": "skyscric3",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=skyscric3|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            },
+            {
+                "channel_name": "T20 Blast 2025 (Sky Sports Arena)",
+                "channel_link": "https:\/\/cricgo.pw\/sky-sports-arena-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=skyarena",
+                "fid": "dskysare",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=dskysare|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            },
+            {
+                "channel_name": "T20 Blast 2025 (Willow Cricket)",
+                "channel_link": "https:\/\/crichdplays.ru\/willow-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
+                "fid": "willowuse",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "T20 Blast 2025 (Sky Sports Cricket)",
+                "channel_link": "https:\/\/crichdplays.ru\/sky-sports-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=skysp2",
+                "fid": "skyscric3",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=skyscric3|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            },
+            {
+                "channel_name": "T20 Blast 2025 (Sky Sports Arena)",
+                "channel_link": "https:\/\/crichdplays.ru\/sky-sports-arena-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=skyarena",
+                "fid": "dskysare",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=dskysare|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
             }
         ]
     },
