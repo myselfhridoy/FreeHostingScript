@@ -73,169 +73,13 @@
                 "source_url": "http:\/\/localhost:8000?server=cricgo&fid=cricgo1|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             },
             {
-                "channel_name": "Max60 T10 League (CricGo 2)",
-                "channel_link": "https:\/\/cricgo.pw\/cricgo-2-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=cricgo2",
-                "fid": "cricgo2",
+                "channel_name": "Max60 T10 League (T Sports HD)",
+                "channel_link": "https:\/\/cricgo.pw\/gtv-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=gtv",
+                "fid": "bdgtv",
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=cricgo2|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "Max60 T10 League (CricGo 3)",
-                "channel_link": "https:\/\/cricgo.pw\/cricgo-3-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=cricgo3",
-                "fid": "cricgo3",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=cricgo3|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            }
-        ]
-    },
-    {
-        "title": "T20 Blast 2025",
-        "link": "https:\/\/crichd.com.co\/t20-blast-live-streaming-hd-32",
-        "channels": [
-            {
-                "channel_name": "T20 Blast 2025 (Willow Cricket)",
-                "channel_link": "https:\/\/cricgo.pw\/willow-cricket-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
-                "fid": "willowuse",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "T20 Blast 2025 (Sky Sports Cricket)",
-                "channel_link": "https:\/\/cricgo.pw\/sky-sports-cricket-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=skysp2",
-                "fid": "skyscric3",
-                "referer": "https:\/\/dlolcast.com",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=skyscric3|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
-            },
-            {
-                "channel_name": "T20 Blast 2025 (Sky Sports Arena)",
-                "channel_link": "https:\/\/cricgo.pw\/sky-sports-arena-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=skyarena",
-                "fid": "dskysare",
-                "referer": "https:\/\/dlolcast.com",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=dskysare|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
-            }
-        ]
-    },
-    {
-        "title": "New Zealand vs Zimbabwe T20",
-        "link": "https:\/\/crichd.com.co\/new-zealand-vs-zimbabwe-t20",
-        "channels": [
-            {
-                "channel_name": "New Zealand vs Zimbabwe T20 (PTV Sports)",
-                "channel_link": "https:\/\/cricgo.pw\/ptv-sports-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=ptvsp",
-                "fid": "ptvpk",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=ptvpk|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "New Zealand vs Zimbabwe T20 (CricLife 2)",
-                "channel_link": "https:\/\/cricgo.pw\/criclife-2-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=criclife2",
-                "fid": "criclife2",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=criclife2|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "New Zealand vs Zimbabwe T20 (TNT Sports 3)",
-                "channel_link": "https:\/\/cricgo.pw\/bt-sport-3-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=btsp3",
-                "fid": "bbtsp3",
-                "referer": "https:\/\/dlolcast.com",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bbtsp3|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
-            },
-            {
-                "channel_name": "New Zealand vs Zimbabwe T20 (SuperSport Cricket)",
-                "channel_link": "https:\/\/cricgo.pw\/supersport-cricket-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=osncric",
-                "fid": "super2cric",
-                "referer": "https:\/\/dlolcast.com",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=super2cric|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
-            }
-        ]
-    },
-    {
-        "title": "World Championship of Legends",
-        "link": "https:\/\/crichd.com.co\/world-championship-of-legends",
-        "channels": [
-            {
-                "channel_name": "World Championship of Legends (Willow Xtra)",
-                "channel_link": "https:\/\/cricgo.pw\/willow-xtra-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willowextra",
-                "fid": "willowextra",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowextra|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "World Championship of Legends (A Sports HD)",
-                "channel_link": "https:\/\/cricgo.pw\/a-sports-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=asports",
-                "fid": "asportiso",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=asportiso|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            }
-        ]
-    },
-    {
-        "title": "England vs Pakistan",
-        "link": "https:\/\/crichd.com.co\/england-vs-pakistan-live-streaming-free",
-        "channels": [
-            {
-                "channel_name": "England vs Pakistan (Willow Xtra)",
-                "channel_link": "https:\/\/cricgo.pw\/willow-xtra-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willowextra",
-                "fid": "willowextra",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowextra|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "England vs Pakistan (A Sports HD)",
-                "channel_link": "https:\/\/cricgo.pw\/a-sports-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=asports",
-                "fid": "asportiso",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=asportiso|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            }
-        ]
-    },
-    {
-        "title": "Global Super League T20",
-        "link": "https:\/\/crichd.com.co\/global-super-league-t20-live",
-        "channels": [
-            {
-                "channel_name": "Global Super League T20 (Willow Cricket)",
-                "channel_link": "https:\/\/cricgo.pw\/willow-cricket-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
-                "fid": "willowuse",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "Global Super League T20 (Channel 62)",
-                "channel_link": "https:\/\/cricgo.pw\/channel-62-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=spch62",
-                "fid": "spch62",
-                "referer": "https:\/\/dlolcast.com",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=spch62|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bdgtv|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             }
         ]
     },
@@ -276,6 +120,54 @@
         "title": "Pakistan vs Bangladesh",
         "link": "https:\/\/crichd.com.co\/pakistan-vs-bangladesh-live-streaming-free",
         "channels": []
+    },
+    {
+        "title": "World Championship of Legends",
+        "link": "https:\/\/crichd.com.co\/world-championship-of-legends",
+        "channels": [
+            {
+                "channel_name": "World Championship of Legends (Willow Cricket)",
+                "channel_link": "https:\/\/cricgo.pw\/willow-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
+                "fid": "willowuse",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "World Championship of Legends (A Sports HD)",
+                "channel_link": "https:\/\/cricgo.pw\/a-sports-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=asports",
+                "fid": "asportiso",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=asportiso|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            }
+        ]
+    },
+    {
+        "title": "India vs Pakistan",
+        "link": "https:\/\/crichd.com.co\/watch-india-vs-pakistan-live-streaming",
+        "channels": [
+            {
+                "channel_name": "India vs Pakistan (Willow Cricket)",
+                "channel_link": "https:\/\/cricgo.pw\/willow-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
+                "fid": "willowuse",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "India vs Pakistan (A Sports HD)",
+                "channel_link": "https:\/\/cricgo.pw\/a-sports-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=asports",
+                "fid": "asportiso",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=asportiso|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            }
+        ]
     },
     {
         "title": "Australia vs West Indies",
@@ -349,8 +241,83 @@
         "channels": []
     },
     {
+        "title": "New Zealand vs Zimbabwe T20",
+        "link": "https:\/\/crichd.com.co\/new-zealand-vs-zimbabwe-t20",
+        "channels": [
+            {
+                "channel_name": "New Zealand vs Zimbabwe T20 (Willow Cricket)",
+                "channel_link": "https:\/\/cricgo.pw\/willow-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
+                "fid": "willowuse",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "New Zealand vs Zimbabwe T20 (PTV Sports)",
+                "channel_link": "https:\/\/cricgo.pw\/ptv-sports-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=ptvsp",
+                "fid": "ptvpk",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=ptvpk|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "New Zealand vs Zimbabwe T20 (TNT Sports 3)",
+                "channel_link": "https:\/\/cricgo.pw\/bt-sport-3-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=btsp3",
+                "fid": "bbtsp3",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bbtsp3|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            },
+            {
+                "channel_name": "New Zealand vs Zimbabwe T20 (SuperSport Cricket)",
+                "channel_link": "https:\/\/cricgo.pw\/supersport-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=osncric",
+                "fid": "super2cric",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=super2cric|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            }
+        ]
+    },
+    {
         "title": "India vs England 5th Test",
         "link": "https:\/\/crichd.com.co\/india-vs-england-5th-test-live-streaming-hd",
         "channels": []
+    },
+    {
+        "title": "T20 Blast 2025",
+        "link": "https:\/\/crichd.com.co\/t20-blast-live-streaming-hd-32",
+        "channels": [
+            {
+                "channel_name": "T20 Blast 2025 (Willow Cricket)",
+                "channel_link": "https:\/\/cricgo.pw\/willow-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
+                "fid": "willowuse",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "T20 Blast 2025 (Sky Sports Cricket)",
+                "channel_link": "https:\/\/cricgo.pw\/sky-sports-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=skysp2",
+                "fid": "skyscric3",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=skyscric3|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            },
+            {
+                "channel_name": "T20 Blast 2025 (Sky Sports Arena)",
+                "channel_link": "https:\/\/cricgo.pw\/sky-sports-arena-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=skyarena",
+                "fid": "dskysare",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=dskysare|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            }
+        ]
     }
 ]
