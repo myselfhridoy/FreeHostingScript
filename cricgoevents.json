@@ -159,30 +159,6 @@
         ]
     },
     {
-        "title": "India vs Pakistan",
-        "link": "https:\/\/crichd.com.co\/watch-india-vs-pakistan-live-streaming",
-        "channels": [
-            {
-                "channel_name": "India vs Pakistan (Willow Cricket)",
-                "channel_link": "https:\/\/cricgo.pw\/willow-cricket-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
-                "fid": "willowuse",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "India vs Pakistan (A Sports HD)",
-                "channel_link": "https:\/\/cricgo.pw\/a-sports-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=asports",
-                "fid": "asportiso",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=asportiso|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            }
-        ]
-    },
-    {
         "title": "Australia vs West Indies",
         "link": "https:\/\/crichd.com.co\/australia-vs-west-indies-live-streaming-free-1",
         "channels": [
