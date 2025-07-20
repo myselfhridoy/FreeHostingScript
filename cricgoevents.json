@@ -60,41 +60,17 @@
         ]
     },
     {
-        "title": "Max60 T10 League",
-        "link": "https:\/\/crichd.com.co\/max60-t10-league",
-        "channels": [
-            {
-                "channel_name": "Max60 T10 League (CricGo 1)",
-                "channel_link": "https:\/\/cricgo.pw\/cricgo-1-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=cricgo1",
-                "fid": "cricgo1",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=cricgo1|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "Max60 T10 League (T Sports HD)",
-                "channel_link": "https:\/\/cricgo.pw\/gtv-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=gtv",
-                "fid": "bdgtv",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bdgtv|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            }
-        ]
-    },
-    {
         "title": "South Africa vs Zimbabwe",
         "link": "https:\/\/crichd.com.co\/south-africa-vs-zimbabwe",
         "channels": [
             {
-                "channel_name": "South Africa vs Zimbabwe (PTV Sports)",
-                "channel_link": "https:\/\/cricgo.pw\/ptv-sports-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=ptvsp",
-                "fid": "ptvpk",
+                "channel_name": "South Africa vs Zimbabwe (Willow Cricket)",
+                "channel_link": "https:\/\/cricgo.pw\/willow-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
+                "fid": "willowuse",
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=ptvpk|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             },
             {
                 "channel_name": "South Africa vs Zimbabwe (CricLife 2)",
@@ -128,29 +104,57 @@
     {
         "title": "Pakistan vs Bangladesh",
         "link": "https:\/\/crichd.com.co\/pakistan-vs-bangladesh-live-streaming-free",
-        "channels": []
-    },
-    {
-        "title": "World Championship of Legends",
-        "link": "https:\/\/crichd.com.co\/world-championship-of-legends",
         "channels": [
             {
-                "channel_name": "World Championship of Legends (Willow Cricket)",
-                "channel_link": "https:\/\/cricgo.pw\/willow-cricket-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
-                "fid": "willowuse",
+                "channel_name": "Pakistan vs Bangladesh (PTV Sports)",
+                "channel_link": "https:\/\/cricgo.pw\/ptv-sports-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=ptvsp",
+                "fid": "ptvpk",
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=ptvpk|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             },
             {
-                "channel_name": "World Championship of Legends (A Sports HD)",
-                "channel_link": "https:\/\/cricgo.pw\/a-sports-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=asports",
-                "fid": "asportiso",
+                "channel_name": "Pakistan vs Bangladesh (CricLife 3)",
+                "channel_link": "https:\/\/cricgo.pw\/criclife-3-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=criclife3",
+                "fid": "criclife3",
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=asportiso|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=criclife3|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "Pakistan vs Bangladesh (T Sports HD)",
+                "channel_link": "https:\/\/cricgo.pw\/gtv-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=gtv",
+                "fid": "bdgtv",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bdgtv|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            }
+        ]
+    },
+    {
+        "title": "Max60 T10 League",
+        "link": "https:\/\/crichd.com.co\/max60-t10-league",
+        "channels": [
+            {
+                "channel_name": "Max60 T10 League (CricGo 1)",
+                "channel_link": "https:\/\/cricgo.pw\/cricgo-1-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=cricgo1",
+                "fid": "cricgo1",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=cricgo1|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "Max60 T10 League (T Sports HD)",
+                "channel_link": "https:\/\/cricgo.pw\/gtv-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=gtv",
+                "fid": "bdgtv",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bdgtv|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             }
         ]
     },
@@ -192,13 +196,13 @@
                 "source_url": "http:\/\/localhost:8000?server=cricgo&fid=criclife1|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             },
             {
-                "channel_name": "Australia vs West Indies (TNT Sports 2)",
-                "channel_link": "https:\/\/cricgo.pw\/bt-sport-2-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=btsp2",
-                "fid": "bbtsp2",
+                "channel_name": "Australia vs West Indies (TNT Sports 1)",
+                "channel_link": "https:\/\/cricgo.pw\/bt-sport-1-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=btsp1",
+                "fid": "bbtsp11",
                 "referer": "https:\/\/dlolcast.com",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bbtsp2|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bbtsp11|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
             },
             {
                 "channel_name": "Australia vs West Indies (Fox Sports 501)",
@@ -241,6 +245,30 @@
                 "referer": "https:\/\/dlolcast.com",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
                 "source_url": "http:\/\/localhost:8000?server=cricgo&fid=super2cric|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            }
+        ]
+    },
+    {
+        "title": "World Championship of Legends",
+        "link": "https:\/\/crichd.com.co\/world-championship-of-legends",
+        "channels": [
+            {
+                "channel_name": "World Championship of Legends (Willow Cricket)",
+                "channel_link": "https:\/\/cricgo.pw\/willow-cricket-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
+                "fid": "willowuse",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "World Championship of Legends (A Sports HD)",
+                "channel_link": "https:\/\/cricgo.pw\/a-sports-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=asports",
+                "fid": "asportiso",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=asportiso|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             }
         ]
     },
