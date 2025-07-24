@@ -120,39 +120,6 @@
         ]
     },
     {
-        "title": "Pakistan vs Bangladesh",
-        "link": "https:\/\/crichd.com.co\/pakistan-vs-bangladesh-live-streaming-free",
-        "channels": [
-            {
-                "channel_name": "Pakistan vs Bangladesh (PTV Sports)",
-                "channel_link": "https:\/\/cricgo.pw\/ptv-sports-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=ptvsp",
-                "fid": "ptvpk",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=ptvpk|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "Pakistan vs Bangladesh (CricLife 3)",
-                "channel_link": "https:\/\/cricgo.pw\/criclife-3-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=criclife3",
-                "fid": "criclife3",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=criclife3|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "Pakistan vs Bangladesh (T Sports HD)",
-                "channel_link": "https:\/\/cricgo.pw\/gtv-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=gtv",
-                "fid": "bdgtv",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bdgtv|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            }
-        ]
-    },
-    {
         "title": "World Championship of Legends",
         "link": "https:\/\/crichd.com.co\/world-championship-of-legends",
         "channels": [
