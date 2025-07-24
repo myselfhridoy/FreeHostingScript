@@ -120,30 +120,6 @@
         ]
     },
     {
-        "title": "Max60 T10 League",
-        "link": "https:\/\/crichd.com.co\/max60-t10-league",
-        "channels": [
-            {
-                "channel_name": "Max60 T10 League (CricGo 1)",
-                "channel_link": "https:\/\/cricgo.pw\/cricgo-1-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=cricgo1",
-                "fid": "cricgo1",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=cricgo1|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "Max60 T10 League (T Sports HD)",
-                "channel_link": "https:\/\/cricgo.pw\/gtv-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=gtv",
-                "fid": "bdgtv",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bdgtv|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            }
-        ]
-    },
-    {
         "title": "World Championship of Legends",
         "link": "https:\/\/crichd.com.co\/world-championship-of-legends",
         "channels": [
