@@ -120,30 +120,6 @@
         ]
     },
     {
-        "title": "World Championship of Legends",
-        "link": "https:\/\/crichd.com.co\/world-championship-of-legends",
-        "channels": [
-            {
-                "channel_name": "World Championship of Legends (Willow Xtra)",
-                "channel_link": "https:\/\/cricgo.pw\/willow-xtra-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willowextra",
-                "fid": "willowextra",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowextra|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "World Championship of Legends (A Sports HD)",
-                "channel_link": "https:\/\/cricgo.pw\/a-sports-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=asports",
-                "fid": "asportiso",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=asportiso|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            }
-        ]
-    },
-    {
         "title": "New Zealand vs Zimbabwe T20",
         "link": "https:\/\/crichd.com.co\/new-zealand-vs-zimbabwe-t20",
         "channels": [
@@ -215,6 +191,30 @@
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
                 "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bdgtv|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            }
+        ]
+    },
+    {
+        "title": "World Championship of Legends",
+        "link": "https:\/\/crichd.com.co\/world-championship-of-legends",
+        "channels": [
+            {
+                "channel_name": "World Championship of Legends (Willow Xtra)",
+                "channel_link": "https:\/\/cricgo.pw\/willow-xtra-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willowextra",
+                "fid": "willowextra",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowextra|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "World Championship of Legends (A Sports HD)",
+                "channel_link": "https:\/\/cricgo.pw\/a-sports-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=asports",
+                "fid": "asportiso",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=asportiso|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             }
         ]
     },
