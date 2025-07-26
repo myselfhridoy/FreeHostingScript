@@ -124,13 +124,13 @@
         "link": "https:\/\/crichd.com.co\/new-zealand-vs-south-africa-t20",
         "channels": [
             {
-                "channel_name": "New Zealand vs South Africa T20 (Willow Cricket)",
-                "channel_link": "https:\/\/cricgo.pw\/willow-cricket-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
-                "fid": "willowuse",
+                "channel_name": "New Zealand vs South Africa T20 (Willow Xtra)",
+                "channel_link": "https:\/\/cricgo.pw\/willow-xtra-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willowextra",
+                "fid": "willowextra",
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowextra|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             },
             {
                 "channel_name": "New Zealand vs South Africa T20 (CricLife 2)",
