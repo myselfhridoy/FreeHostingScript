@@ -64,13 +64,13 @@
         "link": "https:\/\/crichd.com.co\/new-zealand-vs-zimbabwe-1st-test-match",
         "channels": [
             {
-                "channel_name": "New Zealand vs Zimbabwe 1st Test (Willow Cricket)",
-                "channel_link": "https:\/\/crichd-stop.ru\/willow-cricket-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
-                "fid": "willowuse",
+                "channel_name": "New Zealand vs Zimbabwe 1st Test (Willow Xtra)",
+                "channel_link": "https:\/\/crichd-stop.ru\/willow-xtra-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willowextra",
+                "fid": "willowextra",
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowextra|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             },
             {
                 "channel_name": "New Zealand vs Zimbabwe 1st Test (TNT Sports 3)",
@@ -148,15 +148,6 @@
         "link": "https:\/\/crichd.com.co\/world-championship-of-legends",
         "channels": [
             {
-                "channel_name": "World Championship of Legends (Willow Xtra)",
-                "channel_link": "https:\/\/crichd-stop.ru\/willow-xtra-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willowextra",
-                "fid": "willowextra",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowextra|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
                 "channel_name": "World Championship of Legends (A Sports HD)",
                 "channel_link": "https:\/\/crichd-stop.ru\/a-sports-live-streaming",
                 "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=asports",
@@ -164,6 +155,15 @@
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
                 "source_url": "http:\/\/localhost:8000?server=cricgo&fid=asportiso|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "World Championship of Legends (CricGo 1)",
+                "channel_link": "https:\/\/crichd-stop.ru\/cricgo-1-live-streaming",
+                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=cricgo1",
+                "fid": "cricgo1",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=cricgo1|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             }
         ]
     },
