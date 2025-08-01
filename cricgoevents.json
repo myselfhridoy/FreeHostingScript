@@ -6,7 +6,7 @@
             {
                 "channel_name": "India vs England (Willow Cricket)",
                 "channel_link": "https:\/\/crichd-stop.ru\/willow-cricket-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=willow",
                 "fid": "willowuse",
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
@@ -15,7 +15,7 @@
             {
                 "channel_name": "India vs England (Sony Sports Ten 5)",
                 "channel_link": "https:\/\/crichd-stop.ru\/sony-sports-ten-5-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=sonysix",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=sonysix",
                 "fid": "ten5endia",
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
@@ -24,7 +24,7 @@
             {
                 "channel_name": "India vs England (Sony Sports Ten 1)",
                 "channel_link": "https:\/\/crichd-stop.ru\/sony-sports-ten-1-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=ten1",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=ten1",
                 "fid": "ten1endia",
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
@@ -33,7 +33,7 @@
             {
                 "channel_name": "India vs England (Sky Sports Cricket)",
                 "channel_link": "https:\/\/crichd-stop.ru\/sky-sports-cricket-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=skysp2",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=skysp2",
                 "fid": "skyscric3",
                 "referer": "https:\/\/dlolcast.com",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
@@ -42,7 +42,7 @@
             {
                 "channel_name": "India vs England (Sony Sports Ten 3)",
                 "channel_link": "https:\/\/crichd-stop.ru\/sony-sports-ten-3-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=ten3",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=ten3",
                 "fid": "ten3endia",
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
@@ -51,7 +51,7 @@
             {
                 "channel_name": "India vs England (Sony Sports Ten 4)",
                 "channel_link": "https:\/\/crichd-stop.ru\/sony-sports-ten-4-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=sonyespn",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=sonyespn",
                 "fid": "sonyespnind",
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
@@ -66,7 +66,7 @@
             {
                 "channel_name": "New Zealand vs Zimbabwe 1st Test (Willow Xtra)",
                 "channel_link": "https:\/\/crichd-stop.ru\/willow-xtra-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willowextra",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=willowextra",
                 "fid": "willowextra",
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
@@ -75,7 +75,7 @@
             {
                 "channel_name": "New Zealand vs Zimbabwe 1st Test (TNT Sports 3)",
                 "channel_link": "https:\/\/crichd-stop.ru\/bt-sport-3-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=btsp3",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=btsp3",
                 "fid": "bbtsp3",
                 "referer": "https:\/\/dlolcast.com",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
@@ -90,7 +90,7 @@
             {
                 "channel_name": "Pakistan vs West Indies (PTV Sports)",
                 "channel_link": "https:\/\/crichd-stop.ru\/ptv-sports-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=ptvsp",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=ptvsp",
                 "fid": "ptvpk",
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
@@ -99,7 +99,7 @@
             {
                 "channel_name": "Pakistan vs West Indies (CricLife 1)",
                 "channel_link": "https:\/\/crichd-stop.ru\/criclife-1-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=criclife1",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=criclife1",
                 "fid": "criclife1",
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
@@ -108,7 +108,7 @@
             {
                 "channel_name": "Pakistan vs West Indies (TNT Sports 1)",
                 "channel_link": "https:\/\/crichd-stop.ru\/bt-sport-1-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=btsp1",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=btsp1",
                 "fid": "bbtsp11",
                 "referer": "https:\/\/dlolcast.com",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
@@ -123,7 +123,7 @@
             {
                 "channel_name": "India vs England 5th Test (Willow Cricket)",
                 "channel_link": "https:\/\/crichd-stop.ru\/willow-cricket-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=willow",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=willow",
                 "fid": "willowuse",
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
@@ -132,7 +132,7 @@
             {
                 "channel_name": "India vs England 5th Test (Sony Sports Ten 5)",
                 "channel_link": "https:\/\/crichd-stop.ru\/sony-sports-ten-5-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=sonysix",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=sonysix",
                 "fid": "ten5endia",
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
@@ -141,7 +141,7 @@
             {
                 "channel_name": "India vs England 5th Test (Sony Sports Ten 1)",
                 "channel_link": "https:\/\/crichd-stop.ru\/sony-sports-ten-1-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=ten1",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=ten1",
                 "fid": "ten1endia",
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
@@ -150,7 +150,7 @@
             {
                 "channel_name": "India vs England 5th Test (Sky Sports Cricket)",
                 "channel_link": "https:\/\/crichd-stop.ru\/sky-sports-cricket-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=skysp2",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=skysp2",
                 "fid": "skyscric3",
                 "referer": "https:\/\/dlolcast.com",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
@@ -159,7 +159,7 @@
             {
                 "channel_name": "India vs England 5th Test (Sony Sports Ten 3)",
                 "channel_link": "https:\/\/crichd-stop.ru\/sony-sports-ten-3-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=ten3",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=ten3",
                 "fid": "ten3endia",
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
@@ -168,7 +168,7 @@
             {
                 "channel_name": "India vs England 5th Test (Sony Sports Ten 4)",
                 "channel_link": "https:\/\/crichd-stop.ru\/sony-sports-ten-4-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=sonyespn",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=sonyespn",
                 "fid": "sonyespnind",
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
@@ -183,7 +183,7 @@
             {
                 "channel_name": "World Championship of Legends (A Sports HD)",
                 "channel_link": "https:\/\/crichd-stop.ru\/a-sports-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=asports",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=asports",
                 "fid": "asportiso",
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
@@ -192,7 +192,7 @@
             {
                 "channel_name": "World Championship of Legends (CricGo 1)",
                 "channel_link": "https:\/\/crichd-stop.ru\/cricgo-1-live-streaming",
-                "iframe_url": "https:\/\/soplay.pro\/embed2.php?id=cricgo1",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=cricgo1",
                 "fid": "cricgo1",
                 "referer": "https:\/\/bbplay.pro",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
