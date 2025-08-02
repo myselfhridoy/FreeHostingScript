@@ -60,6 +60,81 @@
         ]
     },
     {
+        "title": "World Championship of Legends",
+        "link": "https:\/\/crichd.com.co\/world-championship-of-legends",
+        "channels": [
+            {
+                "channel_name": "World Championship of Legends (Willow Xtra)",
+                "channel_link": "https:\/\/crichd-stop.ru\/willow-xtra-live-streaming",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=willowextra",
+                "fid": "willowextra",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowextra|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "World Championship of Legends (A Sports HD)",
+                "channel_link": "https:\/\/crichd-stop.ru\/a-sports-live-streaming",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=asports",
+                "fid": "asportiso",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=asportiso|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "World Championship of Legends (CricGo 1)",
+                "channel_link": "https:\/\/crichd-stop.ru\/cricgo-1-live-streaming",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=cricgo1",
+                "fid": "cricgo1",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=cricgo1|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            }
+        ]
+    },
+    {
+        "title": "Pakistan vs West Indies 2nd T20",
+        "link": "https:\/\/crichd.com.co\/pakistan-vs-west-indies-pak-vs-wi-2nd-t20",
+        "channels": [
+            {
+                "channel_name": "Pakistan vs West Indies 2nd T20 (PTV Sports)",
+                "channel_link": "https:\/\/crichd-stop.ru\/ptv-sports-live-streaming",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=ptvsp",
+                "fid": "ptvpk",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=ptvpk|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "Pakistan vs West Indies 2nd T20 (CricLife 1)",
+                "channel_link": "https:\/\/crichd-stop.ru\/criclife-1-live-streaming",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=criclife1",
+                "fid": "criclife1",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=criclife1|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "Pakistan vs West Indies 2nd T20 (TNT Sports 2)",
+                "channel_link": "https:\/\/crichd-stop.ru\/bt-sport-2-live-streaming",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=btsp2",
+                "fid": "bbtsp2",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bbtsp2|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            },
+            {
+                "channel_name": "Pakistan vs West Indies 2nd T20 (Geo Super)",
+                "channel_link": "https:\/\/crichd-stop.ru\/geo-super-live-streaming",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=geosuper",
+                "fid": "geosp",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=geosp|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            }
+        ]
+    },
+    {
         "title": "Pakistan vs West Indies",
         "link": "https:\/\/crichd.com.co\/pakistan-vs-west-indies-live-streaming-free",
         "channels": [
@@ -82,13 +157,22 @@
                 "source_url": "http:\/\/localhost:8000?server=cricgo&fid=criclife1|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             },
             {
-                "channel_name": "Pakistan vs West Indies (TNT Sports 1)",
-                "channel_link": "https:\/\/crichd-stop.ru\/bt-sport-1-live-streaming",
-                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=btsp1",
-                "fid": "bbtsp11",
+                "channel_name": "Pakistan vs West Indies (TNT Sports 2)",
+                "channel_link": "https:\/\/crichd-stop.ru\/bt-sport-2-live-streaming",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=btsp2",
+                "fid": "bbtsp2",
                 "referer": "https:\/\/dlolcast.com",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bbtsp11|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bbtsp2|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            },
+            {
+                "channel_name": "Pakistan vs West Indies (Geo Super)",
+                "channel_link": "https:\/\/crichd-stop.ru\/geo-super-live-streaming",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=geosuper",
+                "fid": "geosp",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=geosp|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             }
         ]
     },
@@ -151,35 +235,6 @@
                 "source_url": "http:\/\/localhost:8000?server=cricgo&fid=sonyespnind|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
             }
         ]
-    },
-    {
-        "title": "World Championship of Legends",
-        "link": "https:\/\/crichd.com.co\/world-championship-of-legends",
-        "channels": [
-            {
-                "channel_name": "World Championship of Legends (A Sports HD)",
-                "channel_link": "https:\/\/crichd-stop.ru\/a-sports-live-streaming",
-                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=asports",
-                "fid": "asportiso",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=asportiso|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "World Championship of Legends (CricGo 1)",
-                "channel_link": "https:\/\/crichd-stop.ru\/cricgo-1-live-streaming",
-                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=cricgo1",
-                "fid": "cricgo1",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=cricgo1|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            }
-        ]
-    },
-    {
-        "title": "Pakistan vs West Indies 2nd T20",
-        "link": "https:\/\/crichd.com.co\/pakistan-vs-west-indies-pak-vs-wi-2nd-t20",
-        "channels": []
     },
     {
         "title": "Pakistan vs West Indies 3rd T20",
