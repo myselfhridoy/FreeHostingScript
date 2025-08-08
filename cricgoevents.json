@@ -42,6 +42,30 @@
         ]
     },
     {
+        "title": "New Zealand vs Zimbabwe 2nd Test",
+        "link": "https:\/\/crichd.com.co\/new-zealand-vs-zimbabwe-2nd-test-match",
+        "channels": [
+            {
+                "channel_name": "New Zealand vs Zimbabwe 2nd Test (Willow Cricket)",
+                "channel_link": "https:\/\/crichd-stop.ru\/willow-cricket-live-streaming",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=willow",
+                "fid": "willowuse",
+                "referer": "https:\/\/bbplay.pro",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
+            },
+            {
+                "channel_name": "New Zealand vs Zimbabwe 2nd Test (TNT Sports 4)",
+                "channel_link": "https:\/\/crichd-stop.ru\/bt-sport-espn-live-streaming",
+                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=btespn",
+                "fid": "bbtsp4",
+                "referer": "https:\/\/dlolcast.com",
+                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
+                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bbtsp4|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
+            }
+        ]
+    },
+    {
         "title": "The Hundred 2025",
         "link": "https:\/\/crichd.com.co\/the-hundred-live-streaming-free",
         "channels": [
@@ -71,30 +95,6 @@
                 "referer": "https:\/\/dlolcast.com",
                 "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
                 "source_url": "http:\/\/localhost:8000?server=cricgo&fid=skyscric3|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
-            }
-        ]
-    },
-    {
-        "title": "New Zealand vs Zimbabwe 2nd Test",
-        "link": "https:\/\/crichd.com.co\/new-zealand-vs-zimbabwe-2nd-test-match",
-        "channels": [
-            {
-                "channel_name": "New Zealand vs Zimbabwe 2nd Test (Willow Cricket)",
-                "channel_link": "https:\/\/crichd-stop.ru\/willow-cricket-live-streaming",
-                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=willow",
-                "fid": "willowuse",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "New Zealand vs Zimbabwe 2nd Test (TNT Sports 2)",
-                "channel_link": "https:\/\/crichd-stop.ru\/bt-sport-2-live-streaming",
-                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=btsp2",
-                "fid": "bbtsp2",
-                "referer": "https:\/\/dlolcast.com",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=bbtsp2|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
             }
         ]
     },
