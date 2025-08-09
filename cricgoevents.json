@@ -42,30 +42,6 @@
         ]
     },
     {
-        "title": "New Zealand vs Zimbabwe 2nd Test",
-        "link": "https:\/\/crichd.com.co\/new-zealand-vs-zimbabwe-2nd-test-match",
-        "channels": [
-            {
-                "channel_name": "New Zealand vs Zimbabwe 2nd Test (Willow Cricket)",
-                "channel_link": "https:\/\/crichd-stop.ru\/willow-cricket-live-streaming",
-                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=willow",
-                "fid": "willowuse",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "New Zealand vs Zimbabwe 2nd Test (CricLife 2)",
-                "channel_link": "https:\/\/crichd-stop.ru\/criclife-2-live-streaming",
-                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=criclife2",
-                "fid": "criclife2",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=criclife2|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            }
-        ]
-    },
-    {
         "title": "The Hundred 2025",
         "link": "https:\/\/crichd.com.co\/the-hundred-live-streaming-free",
         "channels": [
