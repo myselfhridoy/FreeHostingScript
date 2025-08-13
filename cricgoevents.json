@@ -2,35 +2,7 @@
     {
         "title": "The Hundred 2025",
         "link": "https:\/\/crichd.com.co\/the-hundred-live-streaming-free",
-        "channels": [
-            {
-                "channel_name": "The Hundred 2025 (Willow Cricket)",
-                "channel_link": "https:\/\/crichd-stop.ru\/willow-cricket-live-streaming",
-                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=willow",
-                "fid": "willowuse",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=willowuse|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "The Hundred 2025 (Sony Sports Ten 1)",
-                "channel_link": "https:\/\/crichd-stop.ru\/sony-sports-ten-1-live-streaming",
-                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=ten1",
-                "fid": "ten1endia",
-                "referer": "https:\/\/bbplay.pro",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=ten1endia|Referer=https:\/\/bbplay.pro\/&Origin=https:\/\/bbplay.pro"
-            },
-            {
-                "channel_name": "The Hundred 2025 (Sky Sports Cricket)",
-                "channel_link": "https:\/\/crichd-stop.ru\/sky-sports-cricket-live-streaming",
-                "iframe_url": "https:\/\/cdn.crichd-stop.ru\/embed2.php?id=skysp2",
-                "fid": "skyscric3",
-                "referer": "https:\/\/dlolcast.com",
-                "logo_url": "https:\/\/i.imgur.com\/0P0Udsa.png",
-                "source_url": "http:\/\/localhost:8000?server=cricgo&fid=skyscric3|Referer=https:\/\/dlolcast.com\/&Origin=https:\/\/dlolcast.com"
-            }
-        ]
+        "channels": []
     },
     {
         "title": "Australia vs South Africa",
