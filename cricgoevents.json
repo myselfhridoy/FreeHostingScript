@@ -1,10 +1,5 @@
 [
     {
-        "title": "Hockey Asia Cup",
-        "link": "https:\/\/crichd.com.co\/hockey-asia-cup",
-        "channels": []
-    },
-    {
         "title": "Caribbean Premier League",
         "link": "https:\/\/crichd.com.co\/caribbean-premier-league-cpl-live-streaming-hd-2",
         "channels": []
@@ -37,6 +32,11 @@
     {
         "title": "Bangladesh vs Hong Kong",
         "link": "https:\/\/crichd.com.co\/bangladesh-vs-hong-kong",
+        "channels": []
+    },
+    {
+        "title": "Pakistan vs Oman",
+        "link": "https:\/\/crichd.com.co\/pakistan-vs-oman",
         "channels": []
     }
 ]
