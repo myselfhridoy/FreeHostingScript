@@ -1,27 +1,22 @@
 [
     {
-        "title": "Asia Cup T20",
-        "link": "https:\/\/crichd.com.co\/asia-cup-t20-live-cricket-streaming",
-        "channels": []
-    },
-    {
-        "title": "Caribbean Premier League",
-        "link": "https:\/\/crichd.com.co\/caribbean-premier-league-cpl-live-streaming-hd-2",
-        "channels": []
-    },
-    {
-        "title": "T20 Blast 2025",
-        "link": "https:\/\/crichd.com.co\/t20-blast-live-streaming-hd-32",
-        "channels": []
-    },
-    {
         "title": "England vs South Africa",
         "link": "https:\/\/crichd.com.co\/england-vs-south-africa-live-streaming-free-3",
         "channels": []
     },
     {
+        "title": "Asia Cup T20",
+        "link": "https:\/\/crichd.com.co\/asia-cup-t20-live-cricket-streaming",
+        "channels": []
+    },
+    {
         "title": "India vs Pakistan",
         "link": "https:\/\/crichd.com.co\/watch-india-vs-pakistan-live-streaming",
+        "channels": []
+    },
+    {
+        "title": "Caribbean Premier League",
+        "link": "https:\/\/crichd.com.co\/caribbean-premier-league-cpl-live-streaming-hd-2",
         "channels": []
     },
     {
@@ -37,6 +32,11 @@
     {
         "title": "Bangladesh vs Afghanistan",
         "link": "https:\/\/crichd.com.co\/watch-bangladesh-vs-afghanistan-live-streaming-free",
+        "channels": []
+    },
+    {
+        "title": "Pakistan vs UAE",
+        "link": "https:\/\/crichd.com.co\/pakistan-vs-uae",
         "channels": []
     }
 ]
