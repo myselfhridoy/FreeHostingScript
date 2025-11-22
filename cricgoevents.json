@@ -1,7 +1,12 @@
 [
     {
-        "title": "The Ashes 2025-26",
-        "link": "https:\/\/crichd.com.co\/watch-the-ashes-live-streaming",
+        "title": "Abu Dhabi T10 League",
+        "link": "https:\/\/crichd.com.co\/t10-cricket-league-live-streaming-free",
+        "channels": []
+    },
+    {
+        "title": "Pakistan vs Sri Lanka",
+        "link": "https:\/\/crichd.com.co\/pakistan-vs-sri-lanka-live-streaming-free",
         "channels": []
     },
     {
@@ -25,18 +30,13 @@
         "channels": []
     },
     {
-        "title": "Abu Dhabi T10 League",
-        "link": "https:\/\/crichd.com.co\/t10-cricket-league-live-streaming-free",
-        "channels": []
-    },
-    {
-        "title": "Pakistan vs Sri Lanka",
-        "link": "https:\/\/crichd.com.co\/pakistan-vs-sri-lanka-live-streaming-free",
-        "channels": []
-    },
-    {
         "title": "Pakistan vs Zimbabwe",
         "link": "https:\/\/crichd.com.co\/watch-pakistan-vs-zimbabwe-live-streaming",
+        "channels": []
+    },
+    {
+        "title": "Asia Cup Rising Stars",
+        "link": "https:\/\/crichd.com.co\/asia-cup-rising-stars",
         "channels": []
     }
 ]
