@@ -1,27 +1,7 @@
 [
     {
-        "title": "NPL T20",
-        "link": "https:\/\/crichd.com.co\/npl-t20",
-        "channels": []
-    },
-    {
         "title": "England vs Prime Ministers XI",
         "link": "https:\/\/crichd.com.co\/england-vs-prime-ministers-xi",
-        "channels": []
-    },
-    {
-        "title": "Bangladesh vs Ireland",
-        "link": "https:\/\/crichd.com.co\/bangladesh-vs-ireland-live-streaming-free",
-        "channels": []
-    },
-    {
-        "title": "Pakistan vs Sri Lanka",
-        "link": "https:\/\/crichd.com.co\/pakistan-vs-sri-lanka-live-streaming-free",
-        "channels": []
-    },
-    {
-        "title": "Abu Dhabi T10 League",
-        "link": "https:\/\/crichd.com.co\/t10-cricket-league-live-streaming-free",
         "channels": []
     },
     {
@@ -35,8 +15,28 @@
         "channels": []
     },
     {
+        "title": "NPL T20",
+        "link": "https:\/\/crichd.com.co\/npl-t20",
+        "channels": []
+    },
+    {
+        "title": "Abu Dhabi T10 League",
+        "link": "https:\/\/crichd.com.co\/t10-cricket-league-live-streaming-free",
+        "channels": []
+    },
+    {
         "title": "New Zealand vs West Indies",
         "link": "https:\/\/crichd.com.co\/new-zealand-vs-west-indies-live-streaming-free",
+        "channels": []
+    },
+    {
+        "title": "Bangladesh vs Ireland",
+        "link": "https:\/\/crichd.com.co\/bangladesh-vs-ireland-live-streaming-free",
+        "channels": []
+    },
+    {
+        "title": "India vs South Africa 2nd ODI",
+        "link": "https:\/\/crichd.com.co\/india-vs-south-africa-2nd-odi",
         "channels": []
     }
 ]
