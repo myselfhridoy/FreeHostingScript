@@ -20,11 +20,6 @@
         "channels": []
     },
     {
-        "title": "2nd ODI England vs Sri Lanka",
-        "link": "https:\/\/crichd.com.co\/2nd-odi-england-vs-sri-lanka",
-        "channels": []
-    },
-    {
         "title": "Womens Premier League 2026",
         "link": "https:\/\/crichd.com.co\/womens-premier-league-2026",
         "channels": []
@@ -47,6 +42,11 @@
     {
         "title": "3rd ODI England vs Sri Lanka",
         "link": "https:\/\/crichd.com.co\/3rd-odi-england-vs-sri-lanka",
+        "channels": []
+    },
+    {
+        "title": "4th T20 India vs New Zealand",
+        "link": "https:\/\/crichd.com.co\/4th-t20-india-vs-new-zealand",
         "channels": []
     }
 ]
