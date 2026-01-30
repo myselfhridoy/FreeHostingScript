@@ -5,18 +5,13 @@
         "channels": []
     },
     {
-        "title": "U19 Cricket World Cup",
-        "link": "https:\/\/crichd.com.co\/u19-cricket-world-cup",
-        "channels": []
-    },
-    {
-        "title": "England vs Sri Lanka",
-        "link": "https:\/\/crichd.com.co\/watch-england-vs-sri-lanka-live-streaming",
-        "channels": []
-    },
-    {
         "title": "UAE vs Ireland",
         "link": "https:\/\/crichd.com.co\/uae-vs-ireland-t20",
+        "channels": []
+    },
+    {
+        "title": "U19 Cricket World Cup",
+        "link": "https:\/\/crichd.com.co\/u19-cricket-world-cup",
         "channels": []
     },
     {
@@ -47,6 +42,11 @@
     {
         "title": "3rd T20 West Indies vs South Africa",
         "link": "https:\/\/crichd.com.co\/3rd-t20-west-indies-vs-south-africa-live-streaming",
+        "channels": []
+    },
+    {
+        "title": "3rd T20 Pakistan vs Australia",
+        "link": "https:\/\/crichd.com.co\/watch-pak-vs-aus-t20-live-streaming",
         "channels": []
     }
 ]
