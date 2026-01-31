@@ -1,10 +1,5 @@
 [
     {
-        "title": "UAE vs Ireland",
-        "link": "https:\/\/crichd.com.co\/uae-vs-ireland-t20",
-        "channels": []
-    },
-    {
         "title": "U19 Cricket World Cup",
         "link": "https:\/\/crichd.com.co\/u19-cricket-world-cup",
         "channels": []
@@ -47,6 +42,11 @@
     {
         "title": "England vs Sri Lanka",
         "link": "https:\/\/crichd.com.co\/watch-england-vs-sri-lanka-live-streaming",
+        "channels": []
+    },
+    {
+        "title": "2nd T20 England vs Sri Lanka",
+        "link": "https:\/\/crichd.com.co\/2nd-t20-england-vs-sri-lanka-live-streaming",
         "channels": []
     }
 ]
