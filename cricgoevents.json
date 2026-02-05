@@ -1,5 +1,10 @@
 [
     {
+        "title": "Sheffield Shield",
+        "link": "https:\/\/crichd.com.co\/sheffield-shield",
+        "channels": []
+    },
+    {
         "title": "U19 Cricket World Cup",
         "link": "https:\/\/crichd.com.co\/u19-cricket-world-cup",
         "channels": []
@@ -7,6 +12,11 @@
     {
         "title": "T20 World Cup Warm Up",
         "link": "https:\/\/crichd.com.co\/t20-world-cup-warm-up",
+        "channels": []
+    },
+    {
+        "title": "ICC T20 World Cup 2026 Curtain Raiser",
+        "link": "https:\/\/crichd.com.co\/icc-world-cup-curtain-raiser-live",
         "channels": []
     }
 ]
