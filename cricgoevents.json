@@ -15,11 +15,6 @@
         "channels": []
     },
     {
-        "title": "ICC T20 World Cup 2026 Curtain Raiser",
-        "link": "https:\/\/crichd.com.co\/icc-world-cup-curtain-raiser-live",
-        "channels": []
-    },
-    {
         "title": "Pakistan vs Netherlands",
         "link": "https:\/\/crichd.com.co\/pakistan-vs-netherlands-live-stream-hd-1",
         "channels": []
@@ -37,6 +32,11 @@
     {
         "title": "Afghanistan vs New Zealand",
         "link": "https:\/\/crichd.com.co\/afghanistan-vs-new-zealand-live",
+        "channels": []
+    },
+    {
+        "title": "England vs Nepal",
+        "link": "https:\/\/crichd.com.co\/england-vs-nepal",
         "channels": []
     }
 ]
