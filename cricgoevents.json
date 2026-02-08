@@ -5,16 +5,6 @@
         "channels": []
     },
     {
-        "title": "Afghanistan vs New Zealand",
-        "link": "https:\/\/crichd.com.co\/afghanistan-vs-new-zealand-live",
-        "channels": []
-    },
-    {
-        "title": "England vs Nepal",
-        "link": "https:\/\/crichd.com.co\/england-vs-nepal",
-        "channels": []
-    },
-    {
         "title": "Sri Lanka vs Ireland",
         "link": "https:\/\/crichd.com.co\/sri-lanka-vs-ireland",
         "channels": []
@@ -37,6 +27,16 @@
     {
         "title": "Namibia vs Netherlands",
         "link": "https:\/\/crichd.com.co\/namibia-vs-netherlands",
+        "channels": []
+    },
+    {
+        "title": "New Zealand vs UAE",
+        "link": "https:\/\/crichd.com.co\/new-zealand-vs-uae",
+        "channels": []
+    },
+    {
+        "title": "Pakistan vs USA",
+        "link": "https:\/\/crichd.com.co\/pakistan-vs-usa",
         "channels": []
     }
 ]
