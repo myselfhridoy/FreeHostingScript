@@ -10,16 +10,6 @@
         "channels": []
     },
     {
-        "title": "CSK vs PBKS",
-        "link": "https:\/\/crichd.com.co\/csk-vs-pbks-live-streaming",
-        "channels": []
-    },
-    {
-        "title": "LQ vs MS",
-        "link": "https:\/\/crichd.com.co\/lq-vs-ms",
-        "channels": []
-    },
-    {
         "title": "MI vs DC",
         "link": "https:\/\/crichd.com.co\/mi-vs-dc-live-streaming-ipl-t20-hd-5",
         "channels": []
@@ -37,6 +27,11 @@
     {
         "title": "MS vs QG",
         "link": "https:\/\/crichd.com.co\/ms-vs-qg",
+        "channels": []
+    },
+    {
+        "title": "MS vs RWP",
+        "link": "https:\/\/crichd.com.co\/ms-vs-rwp",
         "channels": []
     }
 ]
