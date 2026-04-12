@@ -15,11 +15,6 @@
         "channels": []
     },
     {
-        "title": "MI vs RCB",
-        "link": "https:\/\/crichd.com.co\/mi-vs-rcb-live-streaming",
-        "channels": []
-    },
-    {
         "title": "PZ vs MS",
         "link": "https:\/\/crichd.com.co\/pz-vs-ms-live-streaming",
         "channels": []
@@ -37,6 +32,11 @@
     {
         "title": "RCB vs LSG",
         "link": "https:\/\/crichd.com.co\/rcb-vs-lsg",
+        "channels": []
+    },
+    {
+        "title": "PZ vs QG",
+        "link": "https:\/\/crichd.com.co\/pz-vs-qg",
         "channels": []
     }
 ]
