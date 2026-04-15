@@ -15,16 +15,6 @@
         "channels": []
     },
     {
-        "title": "RCB vs LSG",
-        "link": "https:\/\/crichd.com.co\/rcb-vs-lsg",
-        "channels": []
-    },
-    {
-        "title": "PZ vs QG",
-        "link": "https:\/\/crichd.com.co\/pz-vs-qg",
-        "channels": []
-    },
-    {
         "title": "RWP vs HHK",
         "link": "https:\/\/crichd.com.co\/rwp-vs-hhk",
         "channels": []
@@ -37,6 +27,16 @@
     {
         "title": "KK vs ISLU",
         "link": "https:\/\/crichd.com.co\/kk-vs-islu",
+        "channels": []
+    },
+    {
+        "title": "LQ vs QG",
+        "link": "https:\/\/crichd.com.co\/lq-vs-qg",
+        "channels": []
+    },
+    {
+        "title": "KKR vs GT",
+        "link": "https:\/\/crichd.com.co\/kkr-vs-gt-live",
         "channels": []
     }
 ]
