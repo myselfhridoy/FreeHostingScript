@@ -15,11 +15,6 @@
         "channels": []
     },
     {
-        "title": "1st ODI New Zealand vs Bangladesh",
-        "link": "https:\/\/crichd.com.co\/1st-odi-new-zealand-vs-bangladesh",
-        "channels": []
-    },
-    {
         "title": "LQ vs QG",
         "link": "https:\/\/crichd.com.co\/lq-vs-qg",
         "channels": []
@@ -37,6 +32,11 @@
     {
         "title": "CSK vs SRH",
         "link": "https:\/\/crichd.com.co\/csk-vs-srh",
+        "channels": []
+    },
+    {
+        "title": "LQ vs RWP",
+        "link": "https:\/\/crichd.com.co\/lq-vs-rwp",
         "channels": []
     }
 ]
