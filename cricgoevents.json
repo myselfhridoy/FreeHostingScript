@@ -10,11 +10,6 @@
         "channels": []
     },
     {
-        "title": "RCB vs DC",
-        "link": "\/rcb-vs-dc-live-streaming",
-        "channels": []
-    },
-    {
         "title": "CSK vs SRH",
         "link": "\/csk-vs-srh",
         "channels": []
@@ -37,6 +32,11 @@
     {
         "title": "HHK vs QG",
         "link": "\/hhk-vs-qg",
+        "channels": []
+    },
+    {
+        "title": "PBKS vs LSG",
+        "link": "\/pbks-vs-lsg-live-streaming",
         "channels": []
     }
 ]
