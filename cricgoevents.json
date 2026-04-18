@@ -10,16 +10,6 @@
         "channels": []
     },
     {
-        "title": "CSK vs SRH",
-        "link": "\/csk-vs-srh",
-        "channels": []
-    },
-    {
-        "title": "LQ vs RWP",
-        "link": "\/lq-vs-rwp",
-        "channels": []
-    },
-    {
         "title": "Karachi Kings vs Multan Sultans",
         "link": "\/kk-vs-ms",
         "channels": []
@@ -37,6 +27,16 @@
     {
         "title": "PBKS vs LSG",
         "link": "\/pbks-vs-lsg-live-streaming",
+        "channels": []
+    },
+    {
+        "title": "Bangladesh vs New Zealand",
+        "link": "\/watch-bangladesh-vs-new-zealand-live-streaming",
+        "channels": []
+    },
+    {
+        "title": "GT vs MI",
+        "link": "\/gujarat-titans-vs-mumbai-indians-live-stream-hd-4",
         "channels": []
     }
 ]
