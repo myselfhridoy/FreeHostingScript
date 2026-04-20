@@ -15,11 +15,6 @@
         "channels": []
     },
     {
-        "title": "GT vs MI",
-        "link": "\/gujarat-titans-vs-mumbai-indians-live-stream-hd-4",
-        "channels": []
-    },
-    {
         "title": "LQ vs QG",
         "link": "\/lq-vs-qg",
         "channels": []
@@ -37,6 +32,11 @@
     {
         "title": "KK vs PZ",
         "link": "\/kk-vs-pz-live",
+        "channels": []
+    },
+    {
+        "title": "HHK vs MS",
+        "link": "\/hhk-vs-ms",
         "channels": []
     }
 ]
