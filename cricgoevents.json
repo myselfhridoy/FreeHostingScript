@@ -1,17 +1,12 @@
 [
     {
-        "title": "IPL 2026",
-        "link": "\/ipl-2026-live-streaming",
-        "channels": []
-    },
-    {
         "title": "Pakistan Super League",
         "link": "\/pakistan-super-league-live-streaming-free",
         "channels": []
     },
     {
-        "title": "Bangladesh vs New Zealand",
-        "link": "\/watch-bangladesh-vs-new-zealand-live-streaming",
+        "title": "IPL 2026",
+        "link": "\/ipl-2026-live-streaming",
         "channels": []
     },
     {
@@ -37,6 +32,11 @@
     {
         "title": "HHK vs MS",
         "link": "\/hhk-vs-ms",
+        "channels": []
+    },
+    {
+        "title": "LSG vs RR",
+        "link": "\/lsg-vs-rr",
         "channels": []
     }
 ]
